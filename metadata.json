@@ -1,0 +1,5 @@
+{
+  "name": "Public Issue Resolution Dashboard",
+  "description": "An admin dashboard to manage, track, and resolve issues reported by the public. Features AI-powered issue categorization and resolution suggestions using Gemini.",
+  "requestFramePermissions": []
+}
